@@ -1,0 +1,46 @@
+#business{
+    width: 55%;
+    border: 2px solid rgb(182, 179, 179);
+    background-color: white;
+}
+
+#slider{
+    margin: 30px 20px 30px 20px;
+}
+
+.formTxt{
+    margin: 30px 20px 30px 20px;
+    text-align: left;
+}
+
+.formTxt h4{
+    color: #002f34;
+    font-weight: bolder;
+}
+
+.formTxt p{
+    color: rgb(53, 53, 53);
+    font-weight: bolder;
+}
+
+#businessForm
+{
+    margin: 30px 20px 30px 20px;
+    text-align: left;
+  
+}
+
+.labl
+{
+    color: #002f34 !important;
+    font-weight: 700 !important;
+font-size: 17px !important;
+}
+
+#main{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+
+}

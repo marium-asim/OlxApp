@@ -1,0 +1,80 @@
+.details
+{
+    border-bottom: 2px solid rgb(192, 192, 192);
+    padding-bottom: 20px;
+}
+
+.mainCont{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+margin-left: 50px;   
+width: 800px; 
+
+}
+
+.descBox
+{
+    
+    width: 30%;
+    margin-left: 40px;
+}
+
+.big
+{
+    
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+}
+
+.imgBox
+{   background-color: black;
+    padding: 20px;
+margin-left: 50px;   
+width: 800px; 
+margin-bottom: 5px;
+height: 450px;
+}
+
+.cardDesc
+{
+    width: 400px;
+    height: 170px;
+    margin-bottom: 20px;
+}
+
+.cardHeight
+{
+    height: 250px;
+}
+
+.map
+{
+    height:360px;
+}
+
+.chatBtn
+{
+     background-color: #002f34 !important;
+     width: 360px;
+     color: white;
+     font-weight: bolder;
+     padding: 10px;
+     border-radius: 5px;
+     border: #002f34;
+}
+
+.fa-share-alt
+{
+    margin-left: 130px;
+    font-size: 25px;
+}
+
+.fa-heart
+{
+    margin-left: 20px;
+    font-size: 25px;
+}

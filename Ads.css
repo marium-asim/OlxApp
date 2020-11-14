@@ -1,0 +1,32 @@
+.title
+{
+   
+    color: #002f34;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   font-weight: 700;
+    
+}
+  
+.txt
+{
+    color: gray;
+    font-weight: 700;
+}
+
+.startSellBtn
+{
+    margin-bottom: 70px;
+    padding: 13px 10px;
+    color: #002f34;
+    border: #002f34 2px solid;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.startSellBtn:focus
+{
+    border: #002f34 4px solid;
+}

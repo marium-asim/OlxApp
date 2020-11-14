@@ -1,0 +1,117 @@
+#header
+{
+    border: 1px solid #dfe0e1;
+}
+
+.olxLogo
+{
+    padding: 5px 200px;
+}
+
+.slBtn
+{
+    padding: 15px 20px !important;
+    font-size: 15px !important;
+    margin-left: 600px !important;
+    border-radius: 5px !important;
+}
+
+.copyrightHelp{
+    color: white;
+    background-color: #447ffd;
+    padding: 10px 200px;
+ 
+}
+
+.copyrightHelp h6{
+    font-size: 13px;
+}
+
+#hfooter
+{
+    background-color: #e8e9eb;
+    
+}
+
+#hlinks
+{   padding: 20px 190px;
+    display: flex;
+    flex-direction: row;
+}
+
+.hlink
+{
+    border-right: 2px solid #b5b6b8;
+    height: 15px;
+    padding-top: 0px ;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.hlink h6{
+    font-size: 15px;
+}
+#art
+{
+    background-color: #f7f8f9;
+}
+
+#article{
+   
+    padding-top: 30px;
+}
+
+#cont{
+  
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+}
+
+#list1
+{
+    border: 2px solid #dfe0e1;
+    width: 600px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-right: 40px;
+    margin-left: 30px;
+    line-height: 50px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+
+#list2 
+{
+    border: 2px solid #dfe0e1;
+    width: 260px;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 550px;
+    text-align: left;
+  
+}
+
+#list1 a{
+    color: black;
+    margin-right: 15px;
+}
+
+.arr
+{
+   position: absolute;
+   left: 550px;
+}
+
+.fa-star
+{
+    color: cornflowerblue;
+    font-size: 14px;
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+
+#list2 a{
+    color: black;
+}

@@ -1,0 +1,118 @@
+.postform
+{
+    border: 1px solid rgb(192, 189, 189);
+    width: 60%;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.subtitles
+{
+    border-bottom: 1px solid  rgb(192, 189, 189);;
+}
+
+.subtitles h3{
+    font-weight: 700;
+    color:  #002f34;
+    padding: 30px 30px 0px 30px;
+}
+
+.subtitles h6{
+    color: rgb(83, 81, 84);
+    padding-left: 30px;
+    padding-top: 7px;
+}
+
+.priceBox{
+    width: 400px;
+    height: 50px;
+   margin-left: 30px;
+   display: flex;
+   border: 2px solid #002f34;
+border-radius: 5px;
+margin-bottom: 40px;
+}
+
+
+.priceBox h6{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.priceBox input
+{
+    border: none;
+    width: 320px;
+}
+
+.priceBox input:focus
+{
+  outline: none;
+}
+
+.postloc
+{
+    width: 400px;
+    height: 50px;
+   margin-left: 30px;
+   border: 2px solid #002f34;
+   border-radius: 5px;
+   margin-bottom: 40px;
+
+}
+
+.postImg
+{
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.posttitle
+{
+    margin-left: 30px;
+    width: 400px;
+    height: 50px;
+   border: 2px solid #002f34;
+   border-radius: 5px;
+}
+
+.postcap
+{
+    font-size: 12.4px;
+    margin-bottom: 40px;
+}
+
+.subtitles textarea
+{
+    border: 2px solid #002f34;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.postName
+{
+    margin-left: 30px;
+    border: 2px solid #002f34;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+.submitBtn
+{
+    margin:30px;
+    padding: 13px 10px;
+    color: white;
+    background-color: #002f34;
+    border: #002f34;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.submitBtn:focus
+{
+    outline: none;
+    background-color: #03646f;
+}

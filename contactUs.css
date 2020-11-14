@@ -1,0 +1,35 @@
+#list1 p
+{
+    text-align: left;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 25px;
+}
+
+#article h2{
+  text-align: left;
+  padding-left: 230px;
+  padding-top: 50px;
+}
+
+hr{
+height:3px;
+width:68%;
+color:gray;
+background-color:gray;
+}
+
+#btnGrp
+{
+    text-align: left;
+    padding-left: 225px;
+    padding-top: 30px;
+}
+
+.fa-asterisk
+{
+    font-size: 10px;
+    vertical-align: text-top;
+    color: cornflowerblue;
+    padding-left: 2px;
+}

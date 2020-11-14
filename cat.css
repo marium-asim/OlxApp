@@ -1,0 +1,21 @@
+.catLogo
+{
+    background-color: #f7f8f9;
+    padding-left: 40px;
+}
+
+.postTitle
+{
+    color:  #002f34;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.chooseCat
+{
+    border: 1px solid rgb(192, 189, 189);
+    width: 40%;
+    text-align: left;
+}
